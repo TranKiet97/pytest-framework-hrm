@@ -1,0 +1,9 @@
+INFO     WDM:logger.py:11 ====== WebDriver manager ======
+INFO     WDM:logger.py:11 Get LATEST geckodriver version for 121.0 firefox
+INFO     WDM:logger.py:11 Get LATEST geckodriver version for 121.0 firefox
+INFO     WDM:logger.py:11 Driver [C:\Users\ASUS\.wdm\drivers\geckodriver\win64\v0.34.0\geckodriver.exe] found in cache
+INFO     root:Test_Login.py:11 *** TC 001: Verify user can login to page successful ***
+INFO     root:Test_Login.py:12 Step 01: Navigate to Login page
+INFO     root:Test_Login.py:15 Step 02: Input username into Username textbox
+INFO     root:Test_Login.py:18 Step 03: Input password into Password textbox
+INFO     root:Test_Login.py:21 Step 04: Click on Login button

@@ -1,0 +1,8 @@
+pytest==7.4.3
+selenium==4.9.1
+webdriver-manager==4.0.1
+pytest-html==4.1.1
+pytest-xdist==3.5.0         # used being distributing test_cases across multiple CPUs to speed up test execution > pytest -n number_of_parallel
+openpyxl==3.1.2
+allure-pytest==2.13.2
+softest==1.2.0.0
